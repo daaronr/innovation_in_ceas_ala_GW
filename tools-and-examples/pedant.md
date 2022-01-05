@@ -2,6 +2,19 @@
 
 {% embed url="https://forum.effectivealtruism.org/posts/xue4yQ5rn6iDsHdmM/pedant-a-type-checker-for-cost-effectiveness-analysis" %}
 
+Pedant has three stages -- only the first stage (type-checking) has been completed.\
+There are features in Pedant that don't exist in Squiggle or Causal
+
+\
+
+
+[https://hazelfire.github.io/pedant/#/roadmap](https://hazelfire.github.io/pedant/#/roadmap)
+
+\
+
+
+
+
 {% content-ref url="../innovations-and-issues/type-checking-and-code.md" %}
 [type-checking-and-code.md](../innovations-and-issues/type-checking-and-code.md)
 {% endcontent-ref %}
@@ -45,4 +58,8 @@ total_units_of_value_generated_after_downside = total_downside_adjustment * tota
 ```
 
 I guess these functions will be checked for whether the units agree? but I'm not sure where the units are connected to the variables
+
+
+
+
 
