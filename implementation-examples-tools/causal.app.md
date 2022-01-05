@@ -10,6 +10,7 @@ Pros:
 * Flexibly embodies uncertainty
 * Can take data input (but through GUI stuff like Gsheet only)
 * Good 'time-series' tools&#x20;
+* Founders are EA-aligned
 
 Cons:
 
@@ -30,7 +31,7 @@ Input in 'simple language' (default options) or explicit formulae
 
 Midpoint displayed by default, Mouse-over hover reveals (95%?) CI
 
-![](../.gitbook/assets/image.png)&#x20;
+![](<../.gitbook/assets/image (1).png>)&#x20;
 
 
 
