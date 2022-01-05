@@ -5,7 +5,10 @@
 Pedant has three stages -- only the first stage (type-checking) has been completed.\
 There are features in Pedant that don't exist in Squiggle or Causal
 
-\
+* basic language, type-checking
+* uncertainty
+* web interface\
+  \
 
 
 [https://hazelfire.github.io/pedant/#/roadmap](https://hazelfire.github.io/pedant/#/roadmap)
