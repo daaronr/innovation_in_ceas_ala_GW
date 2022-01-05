@@ -32,5 +32,8 @@ Below, I just added a few boxes in two rows,&#x20;
 
 ![Reinstein messing around](../.gitbook/assets/image.png)
 
+And an expanded view of the above:\
 
+
+![](<../.gitbook/assets/image (4).png>)
 
