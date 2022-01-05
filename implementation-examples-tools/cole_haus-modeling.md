@@ -4,7 +4,7 @@
 
 \
 \
-jupyter notebook model in Google collab:&#x20;
+jupyter notebook Python-based model in Google collab:&#x20;
 
 {% embed url="https://colab.research.google.com/drive/1TCXBi7lF69Xaaygub5HGD6-Rb6qE924e#sandboxMode=true" %}
 
