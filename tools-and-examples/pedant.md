@@ -6,7 +6,7 @@ Pedant has three stages -- only the first stage (type-checking) has been complet
 There are features in Pedant that don't exist in Squiggle or Causal
 
 * basic language, type-checking
-* uncertainty
+* uncertainty ... normal
 * web interface\
   \
 
