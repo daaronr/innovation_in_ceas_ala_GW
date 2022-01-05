@@ -30,4 +30,4 @@ Outputs and 'intermediate calculations' specified with plain language 'labeled' 
 
 ![](<../.gitbook/assets/image (4).png>)
 
-DR: But I'm not sure how to vizualise side-by side comparison of scenarios. I know there's a way.&#x20;
+DR: I can't recall how to vizualise side-by side comparison of scenarios. I know there's a way.&#x20;
