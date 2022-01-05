@@ -42,6 +42,6 @@ Outputs and 'intermediate calculations' specified with plain language 'labeled' 
 
 ### 'Dashboard': visualize (probabilistic) results, see & tweak inputs, minimal clutter
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 DR: I can't recall how to visualize side-by side comparison of scenarios. I know there's a way.&#x20;
