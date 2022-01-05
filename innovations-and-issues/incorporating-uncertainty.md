@@ -17,6 +17,12 @@ _Consider: What are the chances of winning the lottery ten times in a row? What 
 \
 **There are reasonable ways of explicitly measuring and calibrating uncertainty over each parameter, and making this explicit is helpful**
 
+****
+
+cole\_haus again:
+
+> From a [subjective Bayesian](https://en.wikipedia.org/wiki/Bayesian\_probability) point of view, the best way to represent our state of knowledge on the input parameters is with a [probability distribution](https://en.wikipedia.org/wiki/Probability\_distribution) over the values the parameter could take. For example, I could say that a negative value for increasing consumption seems very improbable to me but that a wide range of positive values seem about equally plausible. Once we specify a probability distribution, we can feed these distributions into the model and, in principle, we'll end up with a probability distribution over our results. This probability distribution on the results helps us understand the uncertainty contained in our estimates and [how literally](https://blog.givewell.org/2011/08/18/why-we-cant-take-expected-value-estimates-literally-even-when-theyre-unbiased/) we should take them.
+
 ###
 
 ### _What types of uncertainty...?_
