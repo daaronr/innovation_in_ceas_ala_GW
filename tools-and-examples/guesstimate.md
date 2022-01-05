@@ -8,6 +8,7 @@
 * Clearly shows 'dependencies'
 * Leaves out a lot of finance bells & whistles we don't need
 * Connected (?) to some other tech or coding stuff (not sure), Ozzie Goien, Squiggle (?), "Slurp?"
+* Nice documentation [here, in a gitbook](https://docs.getguesstimate.com)
 
 **Cons**
 
