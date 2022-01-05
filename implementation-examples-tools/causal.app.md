@@ -2,8 +2,21 @@
 
 {% embed url="https://www.causal.app" %}
 
+Pros:
+
 * Free to EA (all nonprofits?)
-* 'Spreadsheet input, dashboard output'
+* Very good UI, high signal to noise
+* 'Spreadsheet input, dashboard output'&#x20;
+* Flexibly embodies uncertainty
+* Can take data input (but through GUI stuff like Gsheet only)
+* Good 'time-series' tools&#x20;
+
+Cons:
+
+* Not code-based,&#x20;
+  * not planning to move there (had some initiatives, may be able to revive it)
+* "Default time-series"
+* Missing some ‘sensitivity analysis’ tools perhaps?
 
 
 
@@ -30,4 +43,4 @@ Outputs and 'intermediate calculations' specified with plain language 'labeled' 
 
 ![](<../.gitbook/assets/image (4).png>)
 
-DR: I can't recall how to vizualise side-by side comparison of scenarios. I know there's a way.&#x20;
+DR: I can't recall how to visualize side-by side comparison of scenarios. I know there's a way.&#x20;
