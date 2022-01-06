@@ -17,9 +17,9 @@
 
 * [Causal.app](tools-and-examples/causal.app.md)
 * [Guesstimate](tools-and-examples/guesstimate.md)
-* [hesim and other R package](tools-and-examples/hesim-and-other-r-package.md)
-* [cole\_haus modeling](tools-and-examples/cole\_haus-modeling.md)
 * [Pedant](tools-and-examples/pedant.md)
+* [hesim and other R package](tools-and-examples/hesim-r-package.md)
+* [cole\_haus modeling](tools-and-examples/cole\_haus-modeling.md)
 * [Other examples (MC/Fermi)](tools-and-examples/other-examples-mc-fermi.md)
 
 ## GiveWell model (and extensions)

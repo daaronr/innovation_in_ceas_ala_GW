@@ -1,8 +1,15 @@
+---
+description: >-
+  This tool is funded by XXX. Sam has done much of the writing and
+  example-generation for GiveWell models
+---
+
 # Pedant
 
 {% embed url="https://forum.effectivealtruism.org/posts/xue4yQ5rn6iDsHdmM/pedant-a-type-checker-for-cost-effectiveness-analysis" %}
 
-Pedant has three stages -- only the first stage (type-checking) has been completed.\
+Pedant has three stages -- only the first stage (type-checking) has been completed. The other steps might be merged with existing tools involving Squiggle or Causal\
+\
 There are features in Pedant that don't exist in Squiggle or Causal
 
 * basic language, type-checking
@@ -11,7 +18,7 @@ There are features in Pedant that don't exist in Squiggle or Causal
   \
 
 
-[https://hazelfire.github.io/pedant/#/roadmap](https://hazelfire.github.io/pedant/#/roadmap)
+{% embed url="https://hazelfire.github.io/pedant#/roadmap" %}
 
 \
 
