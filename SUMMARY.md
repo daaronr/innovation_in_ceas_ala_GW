@@ -24,4 +24,4 @@
 
 ## GiveWell model (and extensions)
 
-* [Page 1](givewell-model-and-extensions/page-1.md)
+* [Code representations of GW models](givewell-model-and-extensions/code-representations-of-gw-models.md)
