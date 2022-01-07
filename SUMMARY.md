@@ -9,6 +9,7 @@
 
 ## Innovations and issues
 
+* [(Limitations of GiveWell)](innovations-and-issues/limitations-of-givewell.md)
 * [Incorporating uncertainty](innovations-and-issues/incorporating-uncertainty.md)
 * [(User-input of parameters, sensitivity checking)](innovations-and-issues/user-input-of-parameters-sensitivity-checking.md)
 * [(Type checking and code)](innovations-and-issues/type-checking-and-code.md)

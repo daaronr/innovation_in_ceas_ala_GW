@@ -31,7 +31,7 @@ Input in 'simple language' (default options) or explicit formulae
 
 Midpoint displayed by default, Mouse-over hover reveals (95%?) CI
 
-![](<../.gitbook/assets/image (1).png>)&#x20;
+![](<../.gitbook/assets/image (1) (1).png>)&#x20;
 
 
 
