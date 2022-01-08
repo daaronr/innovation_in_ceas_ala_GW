@@ -1,6 +1,6 @@
 # Incorporating uncertainty
 
-### Why make uncertainty explicit
+### Why make uncertainty explicit?
 
 From [`cole_haus`:](https://forum.effectivealtruism.org/posts/gMxTEMvh8RttX9Nt4/uncertainty-and-sensitivity-analyses-of-givewell-s-cost)
 

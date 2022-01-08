@@ -6,7 +6,7 @@ description: >-
 
 # (Limitations of GiveWell)
 
-Givewell presents a model that is transparent and fully explained. However, it is not easy to follow, adjust, check, or run simulations on.&#x20;
+Givewell presents a model that is transparent and explained in some detail. However, it is not as easy to follow as it might be, and in some ways difficult to adjust, check, or run simulations on.&#x20;
 
 
 
