@@ -14,3 +14,10 @@
 
 Consider Elife's 'editable graphics'\
 Andy Matyschak?&#x20;
+
+
+
+Case for dynamic documents:
+
+* see corrigendum in journals
+* Reinhart and Rogoff error?
