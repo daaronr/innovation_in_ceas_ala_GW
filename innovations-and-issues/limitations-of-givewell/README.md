@@ -14,7 +14,11 @@ They produce and share their model in Google spreadsheets such as the one [HERE]
 \
 The calculations are done in the various cells of the spreadsheet. The formulae look like:&#x20;
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
-GW provides a route to specifying your own moral weights and discount rates, involving a blank row and changing an indicator in a dropdown. This then permits you to see the "results" on another sheet. You can go back and forth to see how these change, or how it compares to GW. However, it's not easy to see and compare this 'all in one place'.\
+GW provides a route to specifying your own moral weights and discount rates, involving a blank row and changing an indicator in a dropdown. This then permits you to see the "results" on another sheet. You can go back and forth to see how these change, or how it compares to GW. However, it's not easy to see and compare this 'all in one place'.
+
+
+
+\
 \
