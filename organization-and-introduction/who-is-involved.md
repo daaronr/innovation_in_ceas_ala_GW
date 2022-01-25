@@ -11,11 +11,13 @@ David Reinstein: My background... Economics academic, UC Berkeley, research/teac
 
 
 
-**Also consult:**&#x20;
+**Also consulting or in discussion:**&#x20;
 
 We are in conversation with James Snowden (GiveWell), who expressed some interest, but he does not see this as a top priority for GiveWell.
 
 Lukas @ Causal\
-Ozzie Gooien (Guesstimate, Squiggle)\
+Ozzie Gooien (Guesstimate, Squiggle)
+
+Pete Wilderford, co-CEO of Givewell\
 Others at RP and GPI (esp, David Rhys-Bernard?) who have done MonteCarlo CEAs
 

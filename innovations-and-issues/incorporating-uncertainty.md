@@ -25,7 +25,7 @@ cole\_haus again:
 
 ###
 
-### _What types of uncertainty...?_
+### __[_What types of uncertainty...?_](incorporating-uncertainty.md#what-types-of-uncertainty...)
 
 **From a table for Malaria Consortium Seasonal malaria chemoprevention** (rephrased)
 
