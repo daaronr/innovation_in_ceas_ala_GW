@@ -7,21 +7,14 @@ description: >-
 # Pedant
 
 {% embed url="https://forum.effectivealtruism.org/posts/xue4yQ5rn6iDsHdmM/pedant-a-type-checker-for-cost-effectiveness-analysis" %}
+EA Forum post for Pedant
+{% endembed %}
 
-Pedant has three stages -- only the first stage (type-checking) has been completed. The other steps might be merged with existing tools involving Squiggle or Causal\
-\
-There are features in Pedant that don't exist in Squiggle or Causal
+{% embed url="https://hazelfire.github.io/pedant#/" %}
+Documetation for Pedant
+{% endembed %}
 
-* basic language, type-checking
-* uncertainty ... normal
-* web interface\
-  \
-
-
-{% embed url="https://hazelfire.github.io/pedant#/roadmap" %}
-
-\
-
+**Pedant** is a math language designed to write CEAs in, written by **Sam Nolan** under an EA Infrastructure grant. The language is very much in it's early stages and is still under active development. Details about the language are best found in the EA Forum Post, the documentation and the examples folder in the GitHub repo.
 
 
 

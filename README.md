@@ -12,18 +12,26 @@ Started by David Reinstein, Rethink Priorities. See [who-is-involved.md](organiz
 
 
 
-## The basic idea&#x20;
+## Introduction
 
-GiveWell's analysis is very strong and very important, but it could be even better. We think they should do the following, and they can do it without sacrificing accessibility and explainability&#x20;
+This gitbook gives the motivation for working on tooling to improve CEAs. It also attempts to lay out the current state of the research in this area, so if you would be interested in contributing, you shouldn't have too much difficulty finding suitable work to do.
 
-1. Explicitly embody uncertainty in the model using 'MonteCarlo', rather than combining 'best point guesses'
-2. Build/calculate the model using checkable tools and code, allowing better bug checking, including type-checking (see Pedant)
-3. Present the model and results more succinctly, as in Causal's dashboard views
-4. Make it easier for users to plug in their own parameters (see 'types of uncertainty' below) and immediately assess how the relative cost-effectiveness rankings and outcomes vary with this, helping them determine where to donate and what to support
+## Why tooling for CEAs?&#x20;
 
-(Arguably) this will also allow GiveWell to assess and compare a larger set of charities, without sacrificing rigor.&#x20;
+Quantifying impact is a cornerstone of Effective Altruism, and currently GiveWell is what is considered a gold standard in the EA community. However, GiveWell's analysis suffer from some key flaws, that we believe are important to the EA community to reconcile.
 
+The most critical issue with GiveWell's analysis is that the analysis does not formally consider uncertainty. Representing uncertainty is important among EAs, particularly when it comes to determining the value of research, epistemics and forecasting (For an EA org in this space, see [QURI](https://quantifieduncertainty.org)).
 
+A second issue is that the model may have bugs within it, may not represent reality, or fail to consider parts of the model. Offering checks could help improve the quality of models. See [Pedant](https://hazelfire.github.io/pedant/#/) for an EA project in this space.
+
+The third is that currently the Cost Effectiveness Analysis (CEAs) provided by organizations such as GiveWell are very daunting and confusing to understand. The underlying model can be hard to tease out from a collection of cell references and formulas. Improving the way that users understand and interact with these models could improve accessibility to EA.
+
+That being said, GiveWell is an outlier in terms of the quality of CEAs. It is the aim of this project to create tools and examples that help create CEAs for non-GiveWell organizations, particularly longtermist ones, which have often escaped more rigorous analysis of Cost Effectiveness up to now.
+
+Specifically, this project investigates the efficacy of the following innovations:
+
+* Representing CEAs using code (See [code-representations-of-gw-models.md](givewell-model-and-extensions/code-representations-of-gw-models.md "mention") and [pedant.md](tools-and-examples/pedant.md "mention"))
+* Using alternatives to excel for representing CEAs, particularly those that can handle uncertainty (See @Guesstimate  and @Causal.app )
 
 We further discuss this case, and responses, under:
 
