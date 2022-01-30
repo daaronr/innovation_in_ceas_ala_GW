@@ -4,23 +4,21 @@ description: >-
   allow user input of moral and epistemic parameters)
 ---
 
-# Cost-Effect-Anal./GiveWell: Explicit uncertainty, transparency, customizability
+# Cost-Effect-Anal./"GiveWell"+: Explicit uncertainty, transparency, customizability
 
 ## This workspace
 
-Started by David Reinstein, Rethink Priorities. See [who-is-involved.md](organization-and-introduction/who-is-involved.md "mention") for other contributors and discussants
-
-
+Started by **David Reinstein**, Rethink Priorities. See [who-is-involved.md](organization-and-introduction/who-is-involved.md "mention") for other contributors and discussants. The project as a whole is a joint effort with **Sam Nolan** and others.&#x20;
 
 ## Introduction
 
-This gitbook gives the motivation for working on tooling to improve CEAs. It also attempts to lay out the current state of the research in this area, so if you would be interested in contributing, you shouldn't have too much difficulty finding suitable work to do.
+This gitbook gives the motivation for working on tooling to improve CEAs. It also attempts to lay out the current state of the research in this area...  so if you would be interested in contributing, you shouldn't have too much difficulty finding suitable work to do.&#x20;
 
 ## Why tooling for CEAs?&#x20;
 
-Quantifying impact is a cornerstone of Effective Altruism, and currently GiveWell is what is considered a gold standard in the EA community. However, GiveWell's analysis suffer from some key flaws, that we believe are important to the EA community to reconcile.
+Quantifying impact is a cornerstone of Effective Altruism, and currently GiveWell is what is considered a gold standard in the EA community. However, GiveWell's analyses suffer from some limitations which we believe are important for the EA community to reconcile.
 
-The most critical issue with GiveWell's analysis is that the analysis does not formally consider uncertainty. Representing uncertainty is important among EAs, particularly when it comes to determining the value of research, epistemics and forecasting (For an EA org in this space, see [QURI](https://quantifieduncertainty.org)).
+Perhaps the most critical issue with GiveWell's analysis is that the analysis does not formally consider uncertainty. Representing uncertainty is important among EAs, particularly when it comes to determining the value of research, epistemics and forecasting (For an EA org in this space, see [QURI](https://quantifieduncertainty.org)).
 
 A second issue is that the model may have bugs within it, may not represent reality, or fail to consider parts of the model. Offering checks could help improve the quality of models. See [Pedant](https://hazelfire.github.io/pedant/#/) for an EA project in this space.
 
