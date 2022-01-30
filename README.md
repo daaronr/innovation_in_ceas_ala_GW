@@ -18,18 +18,18 @@ This gitbook gives the motivation for working on tooling to improve CEAs. It als
 
 Quantifying impact is a cornerstone of Effective Altruism, and currently GiveWell is what is considered a gold standard in the EA community. However, GiveWell's analyses suffer from some limitations which we believe are important for the EA community to reconcile.
 
-Perhaps the most critical issue with GiveWell's analysis is that the analysis does not formally consider uncertainty. Representing uncertainty is important among EAs, particularly when it comes to determining the value of research, epistemics and forecasting (For an EA org in this space, see [QURI](https://quantifieduncertainty.org)).
+1. Perhaps the most critical issue with GiveWell's analysis is that the analysis does not formally consider uncertainty. Representing uncertainty is important among EAs, particularly when it comes to determining the value of research, epistemics and forecasting (For an EA org in this space, see [QURI](https://quantifieduncertainty.org)).  More practically, representing uncertainty may will help donors and policymakers consider the 'risk versus return' of each intervention, and consider how confident they should be in the evaluations. (_See also_ [#why-make-uncertainty-explicit](innovations-and-issues/incorporating-uncertainty.md#why-make-uncertainty-explicit "mention")
+2. &#x20;A second issue is that the model may have bugs in it, may input wrongly coded data, or may have internal inconsistencies. Making the computations more explicit and transparent could facilitate checking and the use of tools to improve reliability and reduce errors. See [Pedant](https://hazelfire.github.io/pedant/#/) for an EA project in this space focusing on ['type checking'](innovations-and-issues/type-checking-and-code.md).
+3. The third issue is that currently the Cost Effectiveness Analysis (CEAs) provided by organizations such as GiveWell are very daunting and confusing to understand. The underlying model can be hard to tease out from a collection of cell references and formulas. Improving the way that users understand and interact with these models could improve accessibility to EAs and to the research community.
 
-A second issue is that the model may have bugs within it, may not represent reality, or fail to consider parts of the model. Offering checks could help improve the quality of models. See [Pedant](https://hazelfire.github.io/pedant/#/) for an EA project in this space.
-
-The third is that currently the Cost Effectiveness Analysis (CEAs) provided by organizations such as GiveWell are very daunting and confusing to understand. The underlying model can be hard to tease out from a collection of cell references and formulas. Improving the way that users understand and interact with these models could improve accessibility to EA.
-
-That being said, GiveWell is an outlier in terms of the quality of CEAs. It is the aim of this project to create tools and examples that help create CEAs for non-GiveWell organizations, particularly longtermist ones, which have often escaped more rigorous analysis of Cost Effectiveness up to now.
+That being said, GiveWell is already a positive outlier in terms of the quality of CEAs. Our project also aims  to create tools and examples that help create CEAs for non-GiveWell organizations, particularly longtermist ones, which have often escaped more rigorous analysis of Cost Effectiveness up to now.
 
 Specifically, this project investigates the efficacy of the following innovations:
 
 * Representing CEAs using code (See [code-representations-of-gw-models.md](givewell-model-and-extensions/code-representations-of-gw-models.md "mention") and [pedant.md](tools-and-examples/pedant.md "mention"))
-* Using alternatives to excel for representing CEAs, particularly those that can handle uncertainty (See @Guesstimate  and @Causal.app )
+* Using alternatives to spreadsheets (MS Excel etc) for representing CEAs, particularly those that can handle uncertainty (See @Guesstimate  and @Causal.app)
+* Presenting these in 'visual dashboard/BI' ways that 'make the uncertainty clear' and enable intuitive comparisons \
+
 
 We further discuss this case, and responses, under:
 
@@ -39,8 +39,6 @@ We further discuss this case, and responses, under:
 
 ... and in other sections below.\
 
-
-##
 
 
 
