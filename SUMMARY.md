@@ -7,7 +7,7 @@
 * [Using this resource](organization-and-introduction/using-this-resource.md)
 * [Key writings](organization-and-introduction/key-writings.md)
 * [Who is involved?](organization-and-introduction/who-is-involved.md)
-* [Opportunities for Contribution](organization-and-introduction/opportunities-for-contribution.md)
+* [Opportunities to contribute to this project](organization-and-introduction/opportunities-to-contribute-to-this-project.md)
 
 ## Innovations and issues
 
