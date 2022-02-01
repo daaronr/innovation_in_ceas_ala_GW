@@ -25,23 +25,23 @@ Cons:
 
 Input in 'simple language' (default options) or explicit formulae
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 
 
 Midpoint displayed by default, Mouse-over hover reveals (95%?) CI
 
-![](<../.gitbook/assets/image (1) (1).png>)&#x20;
+![](<../../.gitbook/assets/image (1) (1) (1).png>)&#x20;
 
 
 
 Outputs and 'intermediate calculations' specified with plain language 'labeled' formulae, and displayed with quick graphs\
 
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 ### 'Dashboard': visualize (probabilistic) results, see & tweak inputs, minimal clutter
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 DR: I can't recall how to visualize side-by side comparison of scenarios. I know there's a way.&#x20;

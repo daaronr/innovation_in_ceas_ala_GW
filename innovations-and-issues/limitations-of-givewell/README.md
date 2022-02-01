@@ -14,7 +14,7 @@ They produce and share their model in Google spreadsheets such as the one [HERE]
 \
 The calculations are done in the various cells of the spreadsheet. The formulae look like:&#x20;
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 GW provides a route to specifying your own moral weights and discount rates, involving a blank row and changing an indicator in a dropdown. This then permits you to see the "results" on another sheet. You can go back and forth to see how these change, or how it compares to GW.&#x20;
 
@@ -27,7 +27,7 @@ However, it's not easy to see and compare this 'all in one place'.
 1. The modeling and presentation is not terribly succinct. It stretches over multiple pages, sheets, and rows, and to get all the details requires some amount of 'clicking and chasing and following footnotes.'  It's hard to find _explicit statements of the relevant equations_ and to compare these across models. Further muddling the reader, there are elements in the spreadsheet that actually do _not_ affect the final outputs ... such as 'amount donated'. &#x20;
 2. They don't explicitly model and present and present uncertainty.  (see '[why make uncertainty explicit](../incorporating-uncertainty.md)' below) They don't give a 'statistical distribution of likely impact (for each charity) under explicitly stated and justified parameter distributions'.  This makes it hard for donors and policymakers to consider the 'risk versus return' of each intervention, and consider how confident they should be in the evaluations.  &#x20;
 3. The model is not easily checkable for bugs, nor is there explicit code one could use to do 'type-checking' (see Pedant) and other systematic checks.  Code could also make various robustness checks and simulations easier to do, and make the work more replicable and extendable
-4. While users _can_ plug in their own parameters (see '[types of uncertainty](../incorporating-uncertainty.md#what-types-of-uncertainty...)'  below), this requires a few steps ... copying the sheet and consulting certain columns, etc.  And even after doing so it's not so easy to go back and forth between assumptions and outcomes (or outcome distributions). Dashboards like the ones built into [causal.app.md](../../tools-and-examples/causal.app.md "mention") make this far easier.
+4. While users _can_ plug in their own parameters (see '[types of uncertainty](../incorporating-uncertainty.md#what-types-of-uncertainty...)'  below), this requires a few steps ... copying the sheet and consulting certain columns, etc.  And even after doing so it's not so easy to go back and forth between assumptions and outcomes (or outcome distributions). Dashboards like the ones built into [causal.app](../../tools-and-examples/causal.app/ "mention") make this far easier.
 
 
 

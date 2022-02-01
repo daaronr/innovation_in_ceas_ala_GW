@@ -19,8 +19,9 @@
 
 ## Tools and examples
 
-* [Causal/Givewell -- working examples (in progress)](tools-and-examples/causal-givewell-working-examples-in-progress.md)
-* [Causal.app](tools-and-examples/causal.app.md)
+* [Givewell models in explained maths](tools-and-examples/givewell-models-in-explained-maths.md)
+* [Causal.app](tools-and-examples/causal.app/README.md)
+  * [Causal/Givewell -- working examples (in progress)](tools-and-examples/causal.app/causal-givewell-working-examples-in-progress.md)
 * [Guesstimate](tools-and-examples/guesstimate.md)
 * [Pedant](tools-and-examples/pedant.md)
 * [hesim and other R package](tools-and-examples/hesim-r-package.md)
