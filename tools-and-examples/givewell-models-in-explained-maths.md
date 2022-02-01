@@ -15,7 +15,7 @@ description: Stating these models as clear mathematical equations and breaking t
 {% endhint %}
 
 $$
-value/d =
+value/donation =
 $$
 
 $$
@@ -32,9 +32,7 @@ $$
 
 ****
 
-**Where**
-
-d = donation size&#x20;
+_**Where**_
 
 p = percent transferred, i.e., 'how much makes it to recipients after admin, leakage etc')
 
@@ -57,8 +55,6 @@ v = amount of investment returned (at end of investment period?)
 i = percent of transfer invested&#x20;
 
 r = ???
-
-
 
 
 
