@@ -8,6 +8,8 @@ description: Stating these models as clear mathematical equations and breaking t
 
 ## Give Directly
 
+[Connected to Causal interface here](https://my.causal.app/models/71712/edit)
+
 {% hint style="info" %}
 &#x20;Note (DR): the equation below can and should be massively simplified and made clearer. Some tips on this in the fold. I made a start to this below. \
 ****\
