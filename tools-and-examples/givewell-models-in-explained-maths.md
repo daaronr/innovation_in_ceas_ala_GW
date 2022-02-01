@@ -23,7 +23,7 @@ $$
 $$
 
 $$
-\Big[\Big( pv(c, n - 1, -(\ln(b + \frac{s}{h} i r) - \ln(b))\Big) + ...
+\Big[\Big( PV(c, n - 1, -(\ln(b + \frac{s}{h} i r) - \ln(b))\Big) + ...
 $$
 
 $$
@@ -42,7 +42,7 @@ s = average size of ~~donation~~ (transfer to household?)
 
 g = Value lost to negative spoiler&#x20;
 
-pv = Present Value function, as represented in excel&#x20;
+PV = Present Value function, as represented in excel&#x20;
 
 c = discount rate&#x20;
 
@@ -55,6 +55,8 @@ b = baseline consumption&#x20;
 v = amount of investment returned&#x20;
 
 i = percent of transfer invested
+
+r = ???
 
 
 
