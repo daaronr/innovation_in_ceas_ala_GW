@@ -36,11 +36,11 @@ $$
 
 d = donation size&#x20;
 
-p = percent transfered, i.e., 'how much makes it to recipients after admin, leakage etc')
+p = percent transferred, i.e., 'how much makes it to recipients after admin, leakage etc')
 
 s = average size of ~~donation~~ (transfer to household?)
 
-g = Value lost to negative spoiler&#x20;
+~~g = Value lost to negative spoiler~~ _DR: I don't see this anywhere_
 
 PV = Present Value function, as represented in excel&#x20;
 
@@ -50,11 +50,11 @@ n = duration of investment&#x20;
 
 h = average household size&#x20;
 
-b = baseline consumption&#x20;
+b = baseline consumption (?in absence of transfer)
 
-v = amount of investment returned&#x20;
+v = amount of investment returned (at end of investment period?)
 
-i = percent of transfer invested
+i = percent of transfer invested&#x20;
 
 r = ???
 
