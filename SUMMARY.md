@@ -19,6 +19,7 @@
 
 ## Tools and examples
 
+* [Causal/Givewell -- working examples (in progress)](tools-and-examples/causal-givewell-working-examples-in-progress.md)
 * [Causal.app](tools-and-examples/causal.app.md)
 * [Guesstimate](tools-and-examples/guesstimate.md)
 * [Pedant](tools-and-examples/pedant.md)
