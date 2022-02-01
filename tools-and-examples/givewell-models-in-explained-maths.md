@@ -46,7 +46,7 @@ c = discount rate&#x20;
 
 n = duration of investment&#x20;
 
-h = average household size&#x20;
+h = average household size \[DR: flag -- something possibly weird here -- smaller households mean greater benefits and greater cost-effectiveness ... in such a strong way, with no countervailing 'but we are helping fewer people' thing?]
 
 b = baseline consumption (?in absence of transfer)
 
