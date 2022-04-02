@@ -5,7 +5,7 @@
 ## Organization and introduction
 
 * [Using this resource](organization-and-introduction/using-this-resource.md)
-* [Key writings](organization-and-introduction/key-writings.md)
+* [Key writings and resources](organization-and-introduction/key-writings-and-resources.md)
 * [Who is involved?](organization-and-introduction/who-is-involved.md)
 * [Opportunities to contribute to this project](organization-and-introduction/opportunities-to-contribute-to-this-project.md)
 

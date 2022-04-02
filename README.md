@@ -33,7 +33,7 @@ Specifically, this project investigates the efficacy of the following innovation
 
 We further discuss this case, and responses, under:
 
-[key-writings.md](organization-and-introduction/key-writings.md "mention")
+[key-writings-and-resources.md](organization-and-introduction/key-writings-and-resources.md "mention")
 
 [limitations-of-givewell](innovations-and-issues/limitations-of-givewell/ "mention")
 
