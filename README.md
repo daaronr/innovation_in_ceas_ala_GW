@@ -37,7 +37,11 @@ We further discuss this case, and responses, under:
 
 [limitations-of-givewell](innovations-and-issues/limitations-of-givewell/ "mention")
 
-... and in other sections below.\
+... and in other sections below.
+
+
+
+_Semi-aside:_I think this would be really good both for directly considering the most valuable global health interventions, and for building the sophistication and epistemics of EA and policymaking communities. It is a really good example to illustrate Fermi Monte Carlo estimation, as well as making concrete, and opening up some very interesting and meaningful considerations of what to measure and value.  \
 
 
 

@@ -23,3 +23,7 @@ We are in conversation with **James Snowden** (GiveWell), who expressed some int
 **Pete Wilderford**, co-CEO of Givewell\
 Others at RP and GPI (esp, David Rhys-Bernard?) who have done MonteCarlo CEAs
 
+
+
+We could consider more about great ways to illustrate this and build up this skill that a lot of people want to learn. [Michael Hewlitt](https://cea.app.swapcard.com/event/eagxboston/person/RXZlbnRQZW9wbGVfMTM5NDcxNTE=) is interested in building this up. Pete Wilderford,  CEO at Rethink is also a strong advocate of this approach. And we've had conversations with Taimur Abdal of [Causal.app](https://causal.app) (and the 'not overthinking' podcast/youtube), who was very interested in facilitating this analysis within his app ... which has seed funding from FTX' Sam Bankman-Fried... so the circle all comes together&#x20;
+
