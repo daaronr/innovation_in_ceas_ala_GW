@@ -10,7 +10,11 @@ First-pass implementation on 'observable'
 
 {% embed url="https://forum.effectivealtruism.org/posts/xue4yQ5rn6iDsHdmM/pedant-a-type-checker-for-cost-effectiveness-analysis" %}
 
-##
+## Further Background and explanations
+
+I think this 'explainer' is a step in the right direction in some ways.&#x20;
+
+{% embed url="https://www.givewell.org/cost-to-save-a-life" %}
 
 ## The general case
 
