@@ -10,6 +10,12 @@ description: >-
 
 Started by **David Reinstein**, Rethink Priorities. See [who-is-involved.md](organization-and-introduction/who-is-involved.md "mention") for other contributors and discussants. The project as a whole is a joint effort with **Sam Nolan** and others.&#x20;
 
+
+
+{% hint style="info" %}
+**Update** 27 May 202**:** [Sam Nolan](https://app.gitbook.com/u/PVvdIN9JRYWSTP5fRaGGUuZKLBl2 "mention") has made strong progress on the GiveDirectly model in a Squiggle notebook [HERE](https://observablehq.com/@hazelfire/givewells-givedirectly-cost-effectiveness-analysis), which he reports in the EA Forum Post [HERE](https://forum.effectivealtruism.org/posts/ycLhq4Bmep8ssr4wR/quantifying-uncertainty-in-givewell-s-givedirectly-cost).
+{% endhint %}
+
 ## Introduction
 
 This gitbook gives the motivation for working on tooling to improve CEAs. It also attempts to lay out the current state of the research in this area...  so if you would be interested in contributing, you shouldn't have too much difficulty finding suitable work to do.&#x20;
@@ -18,7 +24,7 @@ This gitbook gives the motivation for working on tooling to improve CEAs. It als
 
 Quantifying impact is a cornerstone of Effective Altruism, and currently GiveWell is what is considered a gold standard in the EA community. However, GiveWell's analyses suffer from some limitations which we believe are important for the EA community to reconcile.
 
-1. Perhaps the most critical issue with GiveWell's analysis is that the analysis does not formally consider uncertainty. Representing uncertainty is important among EAs, particularly when it comes to determining the value of research, epistemics and forecasting (For an EA org in this space, see [QURI](https://quantifieduncertainty.org)).  More practically, representing uncertainty may will help donors and policymakers consider the 'risk versus return' of each intervention, and consider how confident they should be in the evaluations. (_See also_ [#why-make-uncertainty-explicit](innovations-and-issues/incorporating-uncertainty.md#why-make-uncertainty-explicit "mention")
+1. Perhaps the most critical issue with GiveWell's analysis is that the analysis does not formally consider uncertainty. Representing uncertainty is important among EAs, particularly when it comes to determining the value of research, epistemics and forecasting (For an EA org in this space, see [QURI](https://quantifieduncertainty.org/)).  More practically, representing uncertainty may will help donors and policymakers consider the 'risk versus return' of each intervention, and consider how confident they should be in the evaluations. (_See also_ [#why-make-uncertainty-explicit](innovations-and-issues/incorporating-uncertainty.md#why-make-uncertainty-explicit "mention")_)_
 2. &#x20;A second issue is that the model may have bugs in it, may input wrongly coded data, or may have internal inconsistencies. Making the computations more explicit and transparent could facilitate checking and the use of tools to improve reliability and reduce errors. See [Pedant](https://hazelfire.github.io/pedant/#/) for an EA project in this space focusing on ['type checking'](innovations-and-issues/type-checking-and-code.md).
 3. The third issue is that currently the Cost Effectiveness Analysis (CEAs) provided by organizations such as GiveWell are very daunting and confusing to understand. The underlying model can be hard to tease out from a collection of cell references and formulas. Improving the way that users understand and interact with these models could improve accessibility to EAs and to the research community.
 
