@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cost-Effect-Anal./"GiveWell"+: Explicit uncertainty, transparency, customizability](README.md)
+* [Cost-Effect-Anal./ "GiveWell"+: Explicit uncertainty, transparency, customizability](README.md)
 
 ## Organization and introduction
 

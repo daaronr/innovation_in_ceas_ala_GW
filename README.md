@@ -1,14 +1,15 @@
 ---
 description: >-
-  ’improve GiveWell’s tools/analysis” (to permit Montecarlo, transparency, and
-  allow user input of moral and epistemic parameters)
+  ’improve GiveWell’s tools/analysis” and widen the scope of
+  causes/interventions; permit Montecarlo, transparency, and allow user input of
+  moral and epistemic parameters
 ---
 
-# Cost-Effect-Anal./"GiveWell"+: Explicit uncertainty, transparency, customizability
+# Cost-Effect-Anal./ "GiveWell"+: Explicit uncertainty, transparency, customizability
 
 ## This workspace
 
-Started by **David Reinstein**, Rethink Priorities. See [who-is-involved.md](organization-and-introduction/who-is-involved.md "mention") for other contributors and discussants. The project as a whole is a joint effort with **Sam Nolan** and others.&#x20;
+This is an organizing space started by **David Reinstein** of Rethink Priorities (on his own time). See [who-is-involved.md](organization-and-introduction/who-is-involved.md "mention") for other contributors and discussants. The project as a whole is a joint effort with **Sam Nolan** and others.&#x20;
 
 
 
@@ -47,7 +48,7 @@ We further discuss this case, and responses, under:
 
 
 
-_Semi-aside:_I think this would be really good both for directly considering the most valuable global health interventions, and for building the sophistication and epistemics of EA and policymaking communities. It is a really good example to illustrate Fermi Monte Carlo estimation, as well as making concrete, and opening up some very interesting and meaningful considerations of what to measure and value.  \
+_Semi-aside:_ I think this would be really good both for directly considering the most valuable global health interventions, and for building the sophistication and epistemics of EA and policymaking communities. It is a really good example to illustrate Fermi Monte Carlo estimation, as well as making concrete, and opening up some very interesting and meaningful considerations of what to measure and value.  \
 
 
 
