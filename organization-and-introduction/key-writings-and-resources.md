@@ -1,12 +1,49 @@
 # Key writings and resources
 
+## Tanae Rao's work, focusing on AMF
+
+Squiggle notebook:
+
+{% embed url="https://observablehq.com/@tanaerao/malaria-nets-analysis" %}
+E
+{% endembed %}
+
+EA Forum brief on this [here](https://forum.effectivealtruism.org/posts/4Qdjkf8PatGBsBExK/adding-quantified-uncertainty-to-givewell-s-cost)
+
+
+
+## Froolow's discussion & example 'refactoring'&#x20;
+
+Discussion of the approaches to uncertainty and GiveWell's processes\
+
+
+{% embed url="https://forum.effectivealtruism.org/posts/CuuCGzuzwD6cdu9mo/methods-for-improving-uncertainty-analysis-in-ea-cost" %}
+
+{% embed url="https://www.dropbox.com/s/6dvl7ihg452hafv/Refactored%20GiveWell%20model%20v9.xlsm?dl=0" %}
+Excel-based model, multiple charities&#x20;
+{% endembed %}
+
+See also Froolow's more general discussion/critique of GiveWell's processes [here](https://forum.effectivealtruism.org/posts/6dtwkwBrHBGtc3xes/a-critical-review-of-givewell-s-2022-cost-effectiveness)
+
+
+
+## Sam Nolan's  (Squiggle) work, focusing on GiveDirectly
+
 {% embed url="https://observablehq.com/@hazelfire/givewells-givedirectly-cost-effectiveness-analysis" %}
 First-pass implementation on 'observable'
 {% endembed %}
 
+{% embed url="https://forum.effectivealtruism.org/posts/ycLhq4Bmep8ssr4wR/quantifying-uncertainty-in-givewell-s-givedirectly-cost" %}
+
+## Cole\_haus (earlier) work
+
 [Uncertainty and sensitivity analyses of GiveWell's cost-effectiveness analyses](https://forum.effectivealtruism.org/posts/gMxTEMvh8RttX9Nt4/uncertainty-and-sensitivity-analyses-of-givewell-s-cost) ... by `cole_haus` using Python code (full model on Github [here](https://github.com/colehaus/givewell-analysis)
 
 {% embed url="https://forum.effectivealtruism.org/posts/gMxTEMvh8RttX9Nt4/uncertainty-and-sensitivity-analyses-of-givewell-s-cost" %}
+
+
+
+## Adjacent: Pedant/Hazelfire
 
 {% embed url="https://forum.effectivealtruism.org/posts/xue4yQ5rn6iDsHdmM/pedant-a-type-checker-for-cost-effectiveness-analysis" %}
 
