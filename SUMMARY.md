@@ -20,6 +20,7 @@
 ## Tools and examples
 
 * [Givewell models in explained maths](tools-and-examples/givewell-models-in-explained-maths.md)
+* [Squiggle](tools-and-examples/squiggle.md)
 * [Causal.app](tools-and-examples/causal.app/README.md)
   * [Causal/Givewell -- working examples (in progress)](tools-and-examples/causal.app/causal-givewell-working-examples-in-progress.md)
 * [Guesstimate](tools-and-examples/guesstimate.md)

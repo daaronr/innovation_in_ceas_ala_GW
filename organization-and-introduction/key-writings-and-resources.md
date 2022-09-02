@@ -27,7 +27,7 @@ See also Froolow's more general discussion/critique of GiveWell's processes [her
 
 
 
-## Sam Nolan's  (Squiggle) work, focusing on GiveDirectly
+## Sam Nolan's  (Quri) work, focusing on GiveDirectly
 
 {% embed url="https://observablehq.com/@hazelfire/givewells-givedirectly-cost-effectiveness-analysis" %}
 First-pass implementation on 'observable'
