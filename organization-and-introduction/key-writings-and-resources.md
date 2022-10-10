@@ -12,7 +12,7 @@ EA Forum brief on this [here](https://forum.effectivealtruism.org/posts/4Qdjkf8P
 
 
 
-## Froolow's discussion & example 'refactoring'&#x20;
+## Froolow's discussion & ex. 'refactoring'&#x20;
 
 Discussion of the approaches to uncertainty and GiveWell's processes\
 

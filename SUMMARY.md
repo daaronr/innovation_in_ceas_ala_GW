@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cost-Effect-Anal./ "GiveWell"+: Quantified uncertainty, transparency, customizability](README.md)
+* [Cost-Effect-Anal.: Quant. uncertainty, transparent, customize](README.md)
 
 ## Organization and introduction
 
@@ -14,7 +14,7 @@
 * [Limitations of GiveWell](innovations-and-issues/limitations-of-givewell/README.md)
   * [(Possible errors and misunderstandings: examples from GW and beyond)](innovations-and-issues/limitations-of-givewell/possible-errors-and-misunderstandings-examples-from-gw-and-beyond.md)
 * [Incorporating uncertainty](innovations-and-issues/incorporating-uncertainty.md)
-* [(User-input of parameters, sensitivity checking)](innovations-and-issues/user-input-of-parameters-sensitivity-checking.md)
+* [(User-input, sensitivity checks)](innovations-and-issues/user-input-sensitivity-checks.md)
 * [(Type checking and code)](innovations-and-issues/type-checking-and-code.md)
 
 ## Tools and examples
