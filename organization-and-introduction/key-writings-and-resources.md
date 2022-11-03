@@ -1,5 +1,20 @@
 # Key writings and resources
 
+{% hint style="info" %}
+**Sept-Nov. 2022: GiveWell 'change our mind' contest**
+
+Perhaps motivated by critiques, suggestions, and further analysis like those in this gitbook and the writings below...\
+\
+In Sept. 2022 GiveWell announced a ['change our mind' contest](https://blog.givewell.org/2022/09/06/announcing-change-our-mind-contest/), with $35k in total prize.\
+
+
+A great deal of additional writing and work has been posted in response to this, much of which engages the issues discussed here, including [incorporating-uncertainty.md](../innovations-and-issues/incorporating-uncertainty.md "mention"), **transparent and organized data and calculation 'pipelines', and user input of moral and other parameters.**\
+****\
+****_We plan to outline this work below (to do)._
+{% endhint %}
+
+****
+
 ## Tanae Rao's work, focusing on AMF
 
 Squiggle notebook:

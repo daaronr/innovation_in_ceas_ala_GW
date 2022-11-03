@@ -1,6 +1,6 @@
 ---
 description: >-
-  ’improve GiveWell’s (and others') tools/analysis” and widen the scope of
+  improve GiveWell’s (and others') tools/analysis” and widen the scope of
   causes/interventions; permit Montecarlo, transparency, and allow user input of
   moral and epistemic parameters
 ---
