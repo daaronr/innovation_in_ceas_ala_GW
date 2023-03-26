@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Cost-Effect-Anal.: Quant. uncertainty, transparent, customize](README.md)
+* [Cost-Effect-Analysis: Quant. uncertainty, transparent, customize](README.md)
 
 ## Organization and introduction
 
